@@ -25,7 +25,8 @@ The counter is started via serial communication and increases every second using
 ## Circuit
 The OLED display is connected to the Deneyap Kart via the I2C interface.
 
-![Circuit](images/circuit.jpg)
+![Circuit](circuit_image.jpeg)
 
 ## Notes
 This project is designed as an introductory example for users who are new to Deneyap Kart, OLED displays, and non-blocking timing concepts in embedded systems.
+
