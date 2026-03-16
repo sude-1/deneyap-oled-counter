@@ -1,6 +1,6 @@
-# Deneyap Kart OLED Counter
+# Deneyapkart OLED Counter
 
-This project is a time-based counter application developed using **Deneyap Kart 1A** and an **I2C OLED display**.
+This project is a time-based counter application developed using **Deneyapkart 1A** and an **I2C OLED display**.
 
 The counter is started via serial communication and increases every second using the `millis()` function instead of `delay()`. System states such as start, counting, and completion are displayed on the OLED screen.
 
